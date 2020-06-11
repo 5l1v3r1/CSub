@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/rhLLu5d.png"></img>
 - PentestBuddy In Action
-# Why Only PentestBuddy
+# Why Only CSub?
 1) Easy To Install.
 2) Fast & Reliable.
 3) 100% Accurate.
