@@ -10,7 +10,7 @@
 - Open Terminal
 - Type "git clone https://github.com/virusarham/CSub"
 - cd CSub
-- chmod +x CSub.py
+- chmod +x CSub.py or chmod -R 755 CSub.py
 - python3 CSub.py
 # Contact Us
 - Facebook: https://facebook.com/virusarham
